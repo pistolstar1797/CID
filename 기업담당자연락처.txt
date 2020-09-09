@@ -1,0 +1,38 @@
+네이버 - location
+1. 신재경 리더 jaekyoung.shin@navercorp.com -location
+
+네이버 - 음악
+1. 박호균 리더 hokyun@linecorp.com -음악
+참조 이창신 changshin.lee@navercorp.com -음악
+
+로그프레쏘
+1. 황원근 wghwang@logpresso.com
+
+팜한농
+1. 김지수 jisookim0624@farmhannong.com
+
+LG전자 - fewshot
+1. 김재홍 선임 jaehong02.kim@lge.com -fewshot
+
+LG전자 - face
+1. 최한길 선임 hangil.choi@lge.com - face
+
+삼성전자
+1. 손기성 eson@samsung.com
+
+모르페우스
+1. 심재훈 jhshim0326@morpheus3d.co.kr
+
+인피니트
+1. 안충일 cia@infinitt.com
+참조 whchoi@infinitt.com
+참조 bigmouse@infinitt.com
+
+오스템
+1. 구승모 crow@osstem.com
+참조 김승기 kimseunggi@osstem.com
+참조 김형목 kim.hyoungmok@osstem.com
+참조 김현석 willow@osstem.com
+
+헬스허브
+1. 진재선 jaesun.jin@healthhub.kr
